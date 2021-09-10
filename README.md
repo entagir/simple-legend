@@ -20,7 +20,7 @@ Download files (simpleLegend.js, simpleLegend.css) or use CDN.
 Create a legend and add it to some DOM element.
 
 ```js
-let myLegend = simpleLegend.gradient(['low','middle','high'], ['rgb(0,255,0)','rgb(255,255,0)','rgb(255,0,0)'], 'title');
+  let myLegend = simpleLegend.gradient(['low','middle','high'], ['rgb(0,255,0)','rgb(255,255,0)','rgb(255,0,0)'], 'title');
 	
-document.body.appendChild(myLegend);
+  document.body.appendChild(myLegend);
 ```
