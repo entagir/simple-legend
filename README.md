@@ -8,11 +8,16 @@ Simple legend for web-map.
 ## Installation
 
 ### In browser
-Download files (simpleLegend.js, simpleLegend.css) or use CDN.
-
+Download files (simpleLegend.js, simpleLegend.css):
 ```html
   <link href="simpleLegend.css" rel="stylesheet">
   <script src="simpleLegend.js" charset="utf-8"></script>
+```
+
+Or use CDN:
+```html
+  <link href="https://cdn.jsdelivr.net/gh/entagir/simple-legend@main/simpleLegend.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/gh/entagir/simple-legend@main/simpleLegend.js" charset="utf-8"></script>
 ```
 
 ## Usage
